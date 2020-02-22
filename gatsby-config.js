@@ -65,7 +65,14 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // edit below
-        // trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-93743753-1`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        googleAdClientId: "ca-pub-7414445075542611",
+        head: true, // Optional
       },
     },
     {
