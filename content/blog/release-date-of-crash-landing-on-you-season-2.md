@@ -9,13 +9,14 @@ description: >-
   Fans of the show are eagerly waiting for any news on when will Crash Landing
   on You season 2 release.
 ---
-![Crash Landing on You Season 2](assets/960x0.png "Crash Landing on You Season 2")
+
+![Crash Landing on You Season 2](/assets/960x0.png "Crash Landing on You Season 2")
 
 #### Crash Landing on You Season 2 Release Date: When will it premiere?
 
-Crash Landing on You season 1 premiered on December 15, 2019, on[Netflix](https://www.netflix.com/title/81159258). After airing two episodes every week, it wrapped up with its 16th episode in February, 2020.
+Crash Landing on You season 1 premiered on December 15, 2019, on [Netflix](https://www.netflix.com/title/81159258). After airing two episodes every week, it wrapped up with its 16th episode in February, 2020.
 
-As far as the next season goes, here’s what we know. There’s no denying that the show has amassed a massive fan following within short span of time. In fact, fans have even started an[online petition](https://www.gopetition.com/petitions/extend-crash-landing-on-you-because-it-has-united-the-world.html)demanding a renewal. Given the fandom and the fact that Netflix has been lately investing a lot in foreign shows, it won’t be wrong to presume that the show will get renewed. Our best estimate is that Crash Landing on You season 2 will most likely release sometime in **December 2020**.
+As far as the next season goes, here’s what we know. There’s no denying that the show has amassed a massive fan following within short span of time. In fact, fans have even started an [online petition](https://www.gopetition.com/petitions/extend-crash-landing-on-you-because-it-has-united-the-world.html) demanding a renewal. Given the fandom and the fact that Netflix has been lately investing a lot in foreign shows, it won’t be wrong to presume that the show will get renewed. Our best estimate is that Crash Landing on You season 2 will most likely release sometime in **December 2020**.
 
 ### Fans are split on the idea
 
@@ -25,7 +26,7 @@ Several fans have taken to social media with one Twitter user commenting: "Just 
 
 Meanwhile, in the opposing camp, this fan added: "I don't get people who want season 2 for crash landing on you. like, what are you expecting to happen next???"
 
-![Crash Landing on You](assets/skorea-nkorea-diplomacy-television-050342.jpg "Crash Landing on You")
+![Crash Landing on You](/assets/skorea-nkorea-diplomacy-television-050342.jpg "Crash Landing on You")
 
 ### Why there shouldn't be a second season
 
