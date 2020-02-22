@@ -66,13 +66,7 @@ module.exports = {
       options: {
         // edit below
         trackingId: `UA-93743753-1`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-google-adsense`,
-      options: {
-        googleAdClientId: "ca-pub-7414445075542611",
-        head: true, // Optional
+        head: true,
       },
     },
     {
