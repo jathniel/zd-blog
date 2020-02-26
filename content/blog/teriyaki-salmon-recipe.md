@@ -7,7 +7,8 @@ description: >-
   Quick-cooking salmon fillets with store-bought teriyaki sauce and serves them
   alongside jasmine rice for a complete meal in a matter of minutes.
 ---
-![eriyaki Salmon Recipe](assets/salmon-teriyaki-11.jpg "eriyaki Salmon Recipe")
+
+![eriyaki Salmon Recipe](/assets/salmon-teriyaki-11.jpg "eriyaki Salmon Recipe")
 
 ### Ingredients
 

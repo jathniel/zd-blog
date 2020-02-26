@@ -10,7 +10,7 @@ description: >-
   on You season 2 release.
 ---
 
-![Crash Landing on You Season 2](./assets/960x0.png "Crash Landing on You Season 2")
+![Crash Landing on You Season 2](/assets/960x0.png "Crash Landing on You Season 2")
 
 #### Crash Landing on You Season 2 Release Date: When will it premiere?
 

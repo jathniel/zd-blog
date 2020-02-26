@@ -7,7 +7,8 @@ description: >-
   It's super quick, absolutely delicious, and quite healthful fried cabbage
   recipe. Feel free to spruce it up by adding additional ingredients
 ---
-![Easy Fried Cabbage With Bacon Recipe](assets/201301-r-xl-sauteed-cabbage-and-bacon.jpg "Easy Fried Cabbage With Bacon Recipe")
+
+![Easy Fried Cabbage With Bacon Recipe](/assets/201301-r-xl-sauteed-cabbage-and-bacon.jpg "Easy Fried Cabbage With Bacon Recipe")
 
 ### INGREDIENTS
 
