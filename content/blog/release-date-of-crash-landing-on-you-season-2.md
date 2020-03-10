@@ -4,17 +4,16 @@ date: 2020-02-22T08:51:46.235Z
 title: Release date of Crash Landing on You Season 2
 Category: news
 description: >-
-  The first season of Crash Landing on You proved to be a smash hit. It is
-  presently one of the highest-rated Korean drama in cable television history.
-  Fans of the show are eagerly waiting for any news on when will Crash Landing
-  on You season 2 release.
+  The first season of Crash Landing on You proved to be a massive hit. It is
+  presently one of the highest-rated Korean drama in television history. Fans of
+  the show are eagerly waiting for any news on when will Crash Landing on You
+  season 2 release.
 ---
-
 ![Crash Landing on You Season 2](/assets/960x0.png "Crash Landing on You Season 2")
 
 #### Crash Landing on You Season 2 Release Date: When will it premiere?
 
-Crash Landing on You season 1 premiered on December 15, 2019, on [Netflix](https://www.netflix.com/title/81159258). After airing two episodes every week, it wrapped up with its 16th episode in February, 2020.
+Crash Landing on You season 1 premiered on December 15, 2019, on [Netflix](https://www.netflix.com/title/81159258). After airing two episodes per week, it wrapped up with its 16th episode in February, 2020.
 
 As far as the next season goes, here’s what we know. There’s no denying that the show has amassed a massive fan following within short span of time. In fact, fans have even started an [online petition](https://www.gopetition.com/petitions/extend-crash-landing-on-you-because-it-has-united-the-world.html) demanding a renewal. Given the fandom and the fact that Netflix has been lately investing a lot in foreign shows, it won’t be wrong to presume that the show will get renewed. Our best estimate is that Crash Landing on You season 2 will most likely release sometime in **December 2020**.
 
