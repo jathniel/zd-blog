@@ -1,5 +1,6 @@
 import React from "react"
 import styled from "styled-components"
+import { Link } from "gatsby"
 import Header from "./header"
 
 const Layout = props => {
@@ -8,7 +9,11 @@ const Layout = props => {
     <Wrapper>
       <Header />
       <main>{children}</main>
-      <Footer>© {new Date().getFullYear()}, All Rights Reserved.</Footer>
+      <Footer>
+        © {new Date().getFullYear()}, All Rights Reserved.{" "}
+        <Link to="/privacy">Privacy Policy</Link> |{" "}
+        <Link to="/terms">terms and Condition</Link>
+      </Footer>
     </Wrapper>
   )
 }
