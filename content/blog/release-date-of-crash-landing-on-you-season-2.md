@@ -9,6 +9,7 @@ description: >-
   the show are eagerly waiting for any news on when will Crash Landing on You
   season 2 release.
 ---
+
 ![Crash Landing on You Season 2](/assets/960x0.png "Crash Landing on You Season 2")
 
 #### Crash Landing on You Season 2 Release Date: When will it premiere?
@@ -25,7 +26,7 @@ Several fans have taken to social media with one Twitter user commenting: "Just 
 
 Meanwhile, in the opposing camp, this fan added: "I don't get people who want season 2 for crash landing on you. like, what are you expecting to happen next???"
 
-![Crash Landing on You](./assets/skorea-nkorea-diplomacy-television-050342.jpg "Crash Landing on You")
+![Crash Landing on You](/assets/skorea-nkorea-diplomacy-television-050342.jpg "Crash Landing on You")
 
 ### Why there shouldn't be a second season
 
