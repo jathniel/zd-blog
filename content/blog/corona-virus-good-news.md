@@ -7,7 +7,8 @@ description: >-
   China has closed down its last coronavirus hospital. Not enough new cases to
   support them
 ---
-![](assets/1800x1200_coronavirus_1.jpg)
+
+![](/assets/1800x1200_coronavirus_1.jpg)
 
 How about some good news?
 
