@@ -1,6 +1,6 @@
 var _pop = _pop || []
 _pop.push(["siteId", 3918179])
-_pop.push(["minBid", 0])
+_pop.push(["minBid", 0.001])
 _pop.push(["popundersPerIP", 0])
 _pop.push(["delayBetween", 0])
 _pop.push(["default", false])
