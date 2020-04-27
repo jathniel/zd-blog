@@ -1,21 +1,11 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
 import styled from "styled-components"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
-const BannerContainer = styled.div`
-  margin-top: 40px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-`
+
 const BlogContainer = styled.div`
   margin: 40px auto;
   max-width: 800px;
-`
-const HeaderTitle = styled.h1`
-  border-bottom: 1px solid #888;
 `
 
 const IndexPage = props => {

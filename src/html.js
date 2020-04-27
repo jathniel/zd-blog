@@ -17,11 +17,6 @@ export default function HTML(props) {
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
         ></script>
-        <script
-          type="text/javascript"
-          data-cfasync="false"
-          src="./popup.js"
-        ></script>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
