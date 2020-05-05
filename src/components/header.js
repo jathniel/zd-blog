@@ -14,7 +14,7 @@ const Menu = styled.div`
   a {
     color: #333;
     text-decoration: none;
-    margin-right: 25px;
+    margin-right: 50px;
     font-weight: 100;
     font-style: "Work Sans";
     transition: all 0.5s ease;

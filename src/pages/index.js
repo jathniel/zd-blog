@@ -35,7 +35,7 @@ const BlogPosts = styled.div`
   align-items: flex-start;
 `
 const BlogPost = styled.div`
-  width: 400px;
+  max-width: 400px;
   padding: 15px;
   border: 1px solid #f2f2f2;
   margin: 15px;
@@ -50,25 +50,83 @@ const BlogPost = styled.div`
     }
   }
 `
+const AboutContainer = styled.div`
+  padding: 40px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #ddecef;
+  h1 {
+    font-weight: 700;
+    font-size: 65px;
+  }
+  p {
+    font-size: 24px;
+    line-height: 2;
+  }
+`
+const AboutFloat = styled.div`
+  max-width: 600px;
+  margin: -70px auto;
+  background: #fff;
+  padding: 40px;
+  text-align: center;
+  margin-bottom: 50px;
+  p {
+    font-size: 20px;
+    line-height: 1.7;
+  }
+  a {
+    background-color: transparent;
+    border: solid rgba(0, 0, 0, 1) 1px;
+    cursor: pointer !important;
+    color: #000;
+    margin-top: 40px;
+    padding: 15px 80px;
+    display: inline-block;
+    transition: all 0.5s ease;
+    &:hover {
+      color: #fff;
+      background: #000;
+    }
+  }
+`
 const IndexPage = props => {
   const siteTitle = "Zero Duty Articles"
   const { data } = props
   const posts = data.allMdx.edges
   return (
     <Layout location={props.location} title={siteTitle}>
-      <SEO title="Home" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO
+        title="Home"
+        keywords={[`digital`, `articles`, `facebook`, `youtube`]}
+      />
       <BannerContainer>
         <Banner>
           <img src="./assets/zerodutybanner.png" alt="Zero Duty Banner" />
         </Banner>
+      </BannerContainer>
+      <AboutContainer>
         <div>
+          <h1>Zero Duty Articles</h1>
           <p>
             A digital studio that produces enjoyable,
             <br />
             informative and inspiring content for a global audience.
           </p>
         </div>
-      </BannerContainer>
+      </AboutContainer>
+      <AboutFloat>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat.
+        </p>
+        <a href="/a">About Zero Duty</a>
+      </AboutFloat>
       <HeaderTitle>Recent Articles</HeaderTitle>
       <BlogContainer>
         <BlogPosts>
