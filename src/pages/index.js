@@ -51,7 +51,6 @@ const BlogPost = styled.div`
   }
 `
 const AboutContainer = styled.div`
-  padding: 40px;
   height: 500px;
   display: flex;
   justify-content: center;
