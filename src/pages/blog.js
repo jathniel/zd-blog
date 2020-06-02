@@ -14,6 +14,18 @@ const BlogPosts = styled.div`
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
+  &.small {
+    display: none;
+    @media only screen and (max-width: 600px) {
+      display: block;
+    }
+  }
+  &.large {
+    display: block;
+    @media only screen and (max-width: 600px) {
+      display: none;
+    }
+  }
 `
 const BlogPost = styled.div`
   max-width: 400px;
@@ -40,7 +52,7 @@ const Blog = props => {
     <Layout location={props.location} title={siteTitle}>
       <SEO title="All posts" />
       <BlogContainer>
-        <BlogPosts>
+        <BlogPosts className="large">
           <div>
             {posts.map(({ node }, i) => {
               const title = node.frontmatter.title || node.fields.slug
@@ -99,6 +111,33 @@ const Blog = props => {
               )
             })}
           </div>
+        </BlogPosts>
+        <BlogPosts className="small">
+          {posts.map(({ node }, i) => {
+            const title = node.frontmatter.title || node.fields.slug
+            return (
+              <BlogPost>
+                <h3
+                  style={{
+                    marginBottom: rhythm(1 / 4),
+                  }}
+                >
+                  <Link
+                    style={{ boxShadow: `none` }}
+                    to={`blog${node.fields.slug}`}
+                  >
+                    {title}
+                  </Link>
+                </h3>
+                <small>{node.frontmatter.date}</small>
+                <p
+                  dangerouslySetInnerHTML={{
+                    __html: node.frontmatter.description || node.excerpt,
+                  }}
+                />
+              </BlogPost>
+            )
+          })}
         </BlogPosts>
       </BlogContainer>
     </Layout>

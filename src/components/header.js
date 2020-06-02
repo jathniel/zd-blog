@@ -8,9 +8,11 @@ const Logo = styled.p`
   color: #333;
   font-size: 24px;
   margin-bottom: 0;
-  font-weight: 100;
+  font-weight: 200;
 `
 const Menu = styled.div`
+  display: flex;
+  justify-content: space-between;
   a {
     color: #333;
     text-decoration: none;
@@ -22,6 +24,13 @@ const Menu = styled.div`
       color: #286fb4;
     }
   }
+  @media only screen and (max-width: 600px) {
+    width: 100%;
+    margin: 10px 0;
+    a {
+      margin-right: 0;
+    }
+  }
 `
 const HeaderLayout = styled.div`
   margin: 0 auto;
@@ -31,6 +40,10 @@ const HeaderLayout = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  @media only screen and (max-width: 600px) {
+    flex-direction: column;
+    height: auto;
+  }
 `
 const Header = () => (
   <HeaderStyle>
@@ -43,12 +56,9 @@ const Header = () => (
           About
         </Link>
         <Link style={{ boxShadow: `none` }} to="/blog/">
-          Our Channels
-        </Link>
-        <Link style={{ boxShadow: `none` }} to="/blog/">
           Blog
         </Link>
-        <Link style={{ boxShadow: `none` }} to="/blog/">
+        <Link style={{ boxShadow: `none` }} to="/contact-us/">
           Contact Us
         </Link>
 

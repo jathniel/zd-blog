@@ -11,6 +11,7 @@ import styled from "styled-components"
 const BlogContainer = styled.div`
   margin: 20px auto;
   max-width: 800px;
+  padding: 0px 20px;
 `
 
 const BlogPostTemplate = props => {
